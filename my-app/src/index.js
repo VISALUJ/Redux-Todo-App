@@ -1,11 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './App.css'
-import Products from './Products';
+
+import Products from './Products'
 import reportWebVitals from './reportWebVitals';
-import Header from './Header';
-import Body from './Body';
-import Footer from './Footer';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
