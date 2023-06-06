@@ -1,0 +1,45 @@
+.wheather
+{
+ 
+  height: 400px;
+  width:400px;
+  border-radius: 7px;
+  margin-left:500px;
+  box-sizing: border-box;
+
+}
+h1{
+  text-align: center;
+  color: white;
+}
+form{
+  margin-left: 500px;
+  background-image: url("image/2df763d9c8d96faaf2617609b1aceaba.png"); 
+  height: 400px;
+  width: 500px;
+  border-radius: 7px;
+}
+form input{
+  padding: 10px;
+  border-radius: 7px;
+  border: none;
+  margin: 40px;
+}
+
+.data{
+  position: absolute;
+  top: 170px;
+  left: 510px;
+}
+button{
+  padding:10px;
+  background-color: blue;
+  border-radius: 7px;
+  border:2px solid ;
+  border-color: white;
+  color:white;
+  cursor: pointer;
+}
+body{
+  background-color: black;
+}
